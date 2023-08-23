@@ -1,0 +1,6 @@
+This is a test file to check if mirroring is
+happening in the OCI Code Repository.
+d. Scroll down the page and click Commit New File.
+e. Switch to the OCI Console and go to your Mirrored Code Repository (IAD-DOP-
+LAB04-1-MR-01). You’ll see a message “Mirroring is in Progress” at the top of the
+page.
